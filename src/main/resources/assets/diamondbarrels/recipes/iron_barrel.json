@@ -1,0 +1,21 @@
+{
+    "type": "forge:ore_shaped",
+    "pattern": [
+        "###",
+        "#Z#",
+        "###"
+    ],
+    "key": {
+        "#": {
+        	"type": "forge:ore_dict",
+            "ore": "ingotIron"
+       	},
+        "Z": {
+        	"item": "diamondbarrels:wood_barrel"
+        }
+    },
+    "result": {
+        "item": "diamondbarrels:iron_barrel",
+        "count": 1
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "parent": "block/cube_bottom_top",
+    "textures": {
+        "top": "diamondbarrels:blocks/obsidian_barrel_top",
+        "side": "diamondbarrels:blocks/obsidian_barrel_side",
+        "bottom": "diamondbarrels:blocks/obsidian_barrel_bottom"
+    }
+}

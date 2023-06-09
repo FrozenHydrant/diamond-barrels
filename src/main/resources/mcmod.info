@@ -1,0 +1,16 @@
+[
+{
+  "modid": "diamondbarrels",
+  "name": "Diamond Barrels",
+  "description": "All sorts of different barrels.",
+  "version": "1.1",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["BetaThunder"],
+  "credits": "The Forge and FML guys.",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

@@ -1,0 +1,22 @@
+{
+    "type": "forge:ore_shaped",
+    "pattern": [
+        "#_#",
+        "_ _",
+        "#_#"
+    ],
+    "key": {
+        "#": {
+        	"type": "forge:ore_dict",
+            "ore": "plankWood"
+       	},
+        "_": {
+        	"type": "forge:ore_dict",
+            "ore": "slabWood"
+        }
+    },
+    "result": {
+        "item": "diamondbarrels:wood_barrel",
+        "count": 1
+    }
+}

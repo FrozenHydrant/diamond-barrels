@@ -1,0 +1,10 @@
+{
+    "variants": {
+        "facing=north": { "model": "diamondbarrels:obsidian_barrel", "x": 90 },
+        "facing=south": { "model": "diamondbarrels:obsidian_barrel", "x": 90, "y": 180 },
+        "facing=west": { "model": "diamondbarrels:obsidian_barrel", "x": 90, "y": 270 },
+        "facing=east": { "model": "diamondbarrels:obsidian_barrel", "x": 90, "y": 90 },
+        "facing=down": { "model": "diamondbarrels:obsidian_barrel", "x": 180 },
+        "facing=up": { "model": "diamondbarrels:obsidian_barrel", "x": 0 }
+    }
+}

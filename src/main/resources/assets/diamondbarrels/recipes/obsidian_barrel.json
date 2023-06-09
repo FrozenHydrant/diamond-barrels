@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "###",
+        "#D#",
+        "###"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:obsidian"
+        },
+        "D": {
+            "item": "diamondbarrels:diamond_barrel"
+        }
+    },
+    "result": {
+        "item": "diamondbarrels:obsidian_barrel",
+        "count": 1
+    }
+}
